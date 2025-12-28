@@ -1,13 +1,13 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
     <PropertyGroup>
         <OutputType>WinExe</OutputType>
-        <TargetFramework>net7.0</TargetFramework>
+        <TargetFramework>net8.0</TargetFramework>
         <Nullable>enable</Nullable>
         <BuiltInComInteropSupport>true</BuiltInComInteropSupport>
         <ApplicationManifest>app.manifest</ApplicationManifest>
         <ApplicationIcon>Assets/erm.ico</ApplicationIcon>
         <AssemblyOriginatorKeyFile>ERMSIGN.snk</AssemblyOriginatorKeyFile>
-        <Company>ERM Systems</Company>
+        <Company>Byteforce development, A ERM CE company/Company>
         <AssemblyVersion>1.0.0</AssemblyVersion>
         <FileVersion>1.0.0</FileVersion>
         <NeutralLanguage>en</NeutralLanguage>
@@ -64,3 +64,4 @@
       </Compile>
     </ItemGroup>
 </Project>
+
