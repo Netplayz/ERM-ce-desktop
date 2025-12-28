@@ -33,8 +33,8 @@ This repository exists solely to host **desktop application releases** for ERM-C
 ## 🖥️ Supported Platforms
 
 - Windows
-- Linux
-- macOS (if available in a given release)
+- Linux (if available in a given release)
+- macOS 
 
 Platform availability depends on the specific release.
 
